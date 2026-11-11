@@ -1,2 +1,2 @@
 # DevAscDemo
-CCNA Automation staring 2026
+CCNA Automation training 2026
