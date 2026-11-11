@@ -21,3 +21,4 @@ class MyFeature:
 
 if __name__ == "__main__":
     print(format_message("World"))
+    print("Welcome to DEVASC!")
